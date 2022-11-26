@@ -9,6 +9,7 @@ Programming languages
 - Dart
 - Javascript, Node
 - Java
+- Elixir
 
 MarkUp languages
 - HTML
@@ -22,6 +23,9 @@ UI Libraries and Frameworks
 
 Learning
 - Swift
+
+Interested
+- Erlang
 <!---
 ChilufyaDavid/ChilufyaDavid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
