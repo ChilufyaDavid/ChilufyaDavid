@@ -6,6 +6,7 @@
 
 # Interests 
 Programming languages
+- Python
 - Dart
 - Javascript, Node
 - Java
